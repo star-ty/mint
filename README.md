@@ -43,9 +43,18 @@ note that i am also not, by any means, an expert or anything like that. google i
       
       sudo apt-get install -y nodejs
       
+
+*Anytime it says you don't have the package, follow the instructions on the terminal to do so, for example, we tried but don't have git. Copy and paste the suggestion from the terminal on how to install it.
+
+    sudo apt install git
+    
+From this point on, follow the guide at https://docs.stargaze.zone/guides/readme/1.-setup-a-basic-project  
+   I'm just going to point out random parts you might be stuck here.
+  
+  use sudo yarn install instead of yarn install
   
   
-  
+  On step 2 Configure your project, config.js, you will need visual code to edit your config.js file after creating a copy from config.example.js
   
   
   
