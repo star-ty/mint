@@ -49,6 +49,9 @@ Also really appreciate if anyone want to contribute to this or point out my mist
 
     sudo apt install git
     
+
+# Follow official guide, you are set up now!
+
 From this point on, follow the guide at https://docs.stargaze.zone/guides/readme/1.-setup-a-basic-project  
    I'm just going to point out random parts you/I might be stuck here.
   
