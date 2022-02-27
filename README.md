@@ -4,7 +4,8 @@ guide step-by-step to create a minting website on stargaze</br>
 
 You need Linux or MacOS to follow the official guide: https://docs.stargaze.zone/guides/readme</br>
 we'll be going step by step, if you are code savy you can go to the official link above ^</br>
-note that i am also not, by any means, an expert or anything like that. google is your friend if you have questions, as i most likely can't answer them.</br>
+This is mostly for people with no coding expertise that want to deploy their own minting site; note that i am also a newbie at programming. google is your friend if you have questions, as i most likely can't answer them. you can also ask on discord #stargaze-tools if needed!</br>
+Also really appreciate if anyone want to contribute to this or point out my mistakes haha...
 
 # Step one:
   Install LINUX or MACOS </br>
@@ -49,7 +50,7 @@ note that i am also not, by any means, an expert or anything like that. google i
     sudo apt install git
     
 From this point on, follow the guide at https://docs.stargaze.zone/guides/readme/1.-setup-a-basic-project  
-   I'm just going to point out random parts you might be stuck here.
+   I'm just going to point out random parts you/I might be stuck here.
   
   use sudo yarn install instead of yarn install
   
