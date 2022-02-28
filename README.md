@@ -60,6 +60,7 @@ From this point on, follow the guide at https://docs.stargaze.zone/guides/readme
   
   On step 2 Configure your project, config.js, you will need visual code to edit your config.js file after creating a copy from config.example.js
   
-  
-  
+   Base Token URI: The IPFS URL of the folder containing the JSON metadata.
+  Contract URI: something like https://docs.opensea.io/docs/contract-level-metadata, save as json file
+
 
